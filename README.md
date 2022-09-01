@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aliaquintero
 - 👀 I’m interested in front-end web development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning javascript
 - 📫 aliaquintero@gmail.com
 
 <!---
