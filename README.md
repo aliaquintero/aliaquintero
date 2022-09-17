@@ -1,6 +1,6 @@
-- 👋 hi, i’m @aliaquintero
-- 👀 i’m interested in mern stack development
-- 🌱 i’m currently learning javascript
+- 👋 hi, i’m @aliaquintero !
+- 👀 i’m interested in web development.
+- 🌱 i’m currently learning javascript.
 - 📫 reach me at aliaquintero@gmail.com
 
 <!---
