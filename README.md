@@ -15,6 +15,6 @@ I'm always looking to expand my knowledge and skills in web development. I'm cur
 
 ## 📈 Stats
 
-[![Alia's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliaquintero&count_private=true&show_icons=true&theme=radical)](https://github.com/aliaquintero/github-readme-stats) 
+[![Alia's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliaquintero&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliaquintero&layout=compact&theme=radical)](https://github.com/aliaquintero)
