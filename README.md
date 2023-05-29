@@ -1,6 +1,6 @@
 # Hey, I'm Alia! 👋
 
-I'm a frontend developer with a passion for creativity and design. My GitHub profile is a showcase of personal projects and my own contributions to the open source community. I'm always eager to connect with other developers and collaborate on exciting projects. Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/aliaquintero), or send me a message through my [website](https://aliaquintero.com).
+I'm a frontend developer with a penchant for creativity and design. My GitHub profile is a showcase of personal projects and my own contributions to the open source community. I'm always eager to connect with other developers and collaborate on exciting projects. Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/aliaquintero), or send me a message through my [website](https://aliaquintero.com).
 
 ## 🔭 Current Projects
 
